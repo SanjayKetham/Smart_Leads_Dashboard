@@ -36,7 +36,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
                     <div className="flex justify-between h-16">
                         <div className="flex items-center">
                             <LayoutDashboard className="h-8 w-8 text-blue-600 dark:text-blue-400" />
-                            <span className="ml-2 text-xl font-bold text-gray-900 dark:text-white">SmartLeads</span>
+                            <span className="ml-2 text-xl font-bold text-gray-900 dark:text-white">GigFlow</span>
                         </div>
                         <div className="flex items-center space-x-4">
                             <button
